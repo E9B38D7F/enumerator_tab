@@ -1,4 +1,5 @@
 new backtabber, that enumerates all possible results
+explanation: https://posev.substack.com/p/backtab-2-enumeratortab
 
 * backtabber.ipynb: the actual backtab logic
 * analysis.ipynb: for analysing results of bactabber
